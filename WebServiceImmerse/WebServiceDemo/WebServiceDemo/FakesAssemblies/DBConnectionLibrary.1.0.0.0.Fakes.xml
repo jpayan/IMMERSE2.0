@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DBConnectionLibrary.1.0.0.0.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:DBConnectionLibrary.Fakes.ShimSQLHelper">
+            <summary>Shim type of DBConnectionLibrary.SQLHelper</summary>
+        </member>
+        <member name="M:DBConnectionLibrary.Fakes.ShimSQLHelper.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:DBConnectionLibrary.Fakes.ShimSQLHelper.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:DBConnectionLibrary.Fakes.ShimSQLHelper.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:DBConnectionLibrary.Fakes.ShimSQLHelper.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:DBConnectionLibrary.Fakes.ShimSQLHelper.DBConnectionClose">
+            <summary>Sets the shim of SQLHelper.DBConnectionClose()</summary>
+        </member>
+        <member name="P:DBConnectionLibrary.Fakes.ShimSQLHelper.DBConnectionOpen">
+            <summary>Sets the shim of SQLHelper.DBConnectionOpen()</summary>
+        </member>
+        <member name="P:DBConnectionLibrary.Fakes.ShimSQLHelper.ExecuteNonQueryStringCommandTypeInt32SqlParameterArray">
+            <summary>Sets the shim of SQLHelper.ExecuteNonQuery(String commandText, CommandType commandType, Int32 timeout, SqlParameter[] parameters)</summary>
+        </member>
+        <member name="P:DBConnectionLibrary.Fakes.ShimSQLHelper.ExecuteReaderStringCommandTypeInt32SqlParameterArray">
+            <summary>Sets the shim of SQLHelper.ExecuteReader(String commandText, CommandType commandType, Int32 timeout, SqlParameter[] parameters)</summary>
+        </member>
+        <member name="P:DBConnectionLibrary.Fakes.ShimSQLHelper.StaticConstructor">
+            <summary>Sets the shim of SQLHelper.SQLHelper()</summary>
+        </member>
+    </members>
+</doc>

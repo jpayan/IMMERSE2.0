@@ -1,0 +1,33 @@
+D:\GitHub\ProgramacionAvanzada\WebServiceDemo\WebServiceDemo\obj\Debug\WebServiceDemo.csprojResolveAssemblyReference.cache
+D:\GitHub\ProgramacionAvanzada\WebServiceDemo\WebServiceDemo\bin\WebServiceDemo.dll
+D:\GitHub\ProgramacionAvanzada\WebServiceDemo\WebServiceDemo\bin\WebServiceDemo.pdb
+D:\GitHub\ProgramacionAvanzada\WebServiceDemo\WebServiceDemo\bin\DBConnectionLibrary.dll
+D:\GitHub\ProgramacionAvanzada\WebServiceDemo\WebServiceDemo\bin\DBConnectionLibrary.pdb
+D:\GitHub\ProgramacionAvanzada\WebServiceDemo\WebServiceDemo\obj\Debug\WebServiceDemo.dll
+D:\GitHub\ProgramacionAvanzada\WebServiceDemo\WebServiceDemo\obj\Debug\WebServiceDemo.pdb
+C:\Users\Jorge\Documents\Cetys\5to\Programación Avanzada\Proxy\WebServiceDemo\WebServiceDemo\bin\WebServiceDemo.dll.config
+C:\Users\Jorge\Documents\Cetys\5to\Programación Avanzada\Proxy\WebServiceDemo\WebServiceDemo\bin\WebServiceDemo.dll
+C:\Users\Jorge\Documents\Cetys\5to\Programación Avanzada\Proxy\WebServiceDemo\WebServiceDemo\bin\WebServiceDemo.pdb
+C:\Users\Jorge\Documents\Cetys\5to\Programación Avanzada\Proxy\WebServiceDemo\WebServiceDemo\bin\DBConnectionLibrary.dll
+C:\Users\Jorge\Documents\Cetys\5to\Programación Avanzada\Proxy\WebServiceDemo\WebServiceDemo\bin\DBConnectionLibrary.pdb
+C:\Users\Jorge\Documents\Cetys\5to\Programación Avanzada\Proxy\WebServiceDemo\WebServiceDemo\obj\Debug\WebServiceDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Documents\Cetys\5to\Programación Avanzada\Proxy\WebServiceDemo\WebServiceDemo\obj\Debug\WebServiceDemo.dll
+C:\Users\Jorge\Documents\Cetys\5to\Programación Avanzada\Proxy\WebServiceDemo\WebServiceDemo\obj\Debug\WebServiceDemo.pdb
+C:\Users\Papu1330\Desktop\WebServiceImmerse\Proxy\WebServiceDemo\WebServiceDemo\bin\WebServiceDemo.dll.config
+C:\Users\Papu1330\Desktop\WebServiceImmerse\Proxy\WebServiceDemo\WebServiceDemo\bin\WebServiceDemo.dll
+C:\Users\Papu1330\Desktop\WebServiceImmerse\Proxy\WebServiceDemo\WebServiceDemo\bin\WebServiceDemo.pdb
+C:\Users\Papu1330\Desktop\WebServiceImmerse\Proxy\WebServiceDemo\WebServiceDemo\bin\DBConnectionLibrary.1.0.0.0.Fakes.fakesconfig
+C:\Users\Papu1330\Desktop\WebServiceImmerse\Proxy\WebServiceDemo\WebServiceDemo\bin\DBConnectionLibrary.dll
+C:\Users\Papu1330\Desktop\WebServiceImmerse\Proxy\WebServiceDemo\WebServiceDemo\bin\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Papu1330\Desktop\WebServiceImmerse\Proxy\WebServiceDemo\WebServiceDemo\bin\DBConnectionLibrary.pdb
+C:\Users\Papu1330\Desktop\WebServiceImmerse\Proxy\WebServiceDemo\WebServiceDemo\obj\Debug\WebServiceDemo.dll
+C:\Users\Papu1330\Desktop\WebServiceImmerse\Proxy\WebServiceDemo\WebServiceDemo\obj\Debug\WebServiceDemo.pdb
+C:\Users\Papu1330\Desktop\WebServiceImmerse\Proxy\WebServiceDemo\WebServiceDemo\obj\Debug\WebServiceDemo.csprojFakesResolveAssemblyReference.cache
+C:\Users\Jorge\Documents\Cetys\5to\Programación Avanzada\WebServiceImmerse\WebServiceDemo\WebServiceDemo\bin\WebServiceDemo.dll.config
+C:\Users\Jorge\Documents\Cetys\5to\Programación Avanzada\WebServiceImmerse\WebServiceDemo\WebServiceDemo\bin\WebServiceDemo.dll
+C:\Users\Jorge\Documents\Cetys\5to\Programación Avanzada\WebServiceImmerse\WebServiceDemo\WebServiceDemo\bin\WebServiceDemo.pdb
+C:\Users\Jorge\Documents\Cetys\5to\Programación Avanzada\WebServiceImmerse\WebServiceDemo\WebServiceDemo\bin\DBConnectionLibrary.dll
+C:\Users\Jorge\Documents\Cetys\5to\Programación Avanzada\WebServiceImmerse\WebServiceDemo\WebServiceDemo\bin\DBConnectionLibrary.pdb
+C:\Users\Jorge\Documents\Cetys\5to\Programación Avanzada\WebServiceImmerse\WebServiceDemo\WebServiceDemo\obj\Debug\WebServiceDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Documents\Cetys\5to\Programación Avanzada\WebServiceImmerse\WebServiceDemo\WebServiceDemo\obj\Debug\WebServiceDemo.dll
+C:\Users\Jorge\Documents\Cetys\5to\Programación Avanzada\WebServiceImmerse\WebServiceDemo\WebServiceDemo\obj\Debug\WebServiceDemo.pdb
