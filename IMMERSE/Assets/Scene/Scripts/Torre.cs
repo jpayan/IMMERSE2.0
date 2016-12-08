@@ -40,7 +40,7 @@ public class Torre : MonoBehaviour {
     void Update()
     {
         tiempo -=  Time.deltaTime;
-        Debug.Log(tiempo);
+       
         Countdown.text = tiempo.ToString();
         if (tiempo<=0)
         {

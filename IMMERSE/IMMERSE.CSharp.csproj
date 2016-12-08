@@ -98,6 +98,7 @@
   <ItemGroup>
     <Compile Include="Assets\Chibi Mummy\Scripts\anims_controls.cs" />
     <Compile Include="Assets\Chibi Mummy\Scripts\control_script.cs" />
+    <Compile Include="Assets\ColisionadorController.cs" />
     <Compile Include="Assets\DepthColliderDemo\Scripts\DepthImageViewer.cs" />
     <Compile Include="Assets\DepthColliderDemo\Scripts\EggMover.cs" />
     <Compile Include="Assets\DepthColliderDemo\Scripts\EggSpawner.cs" />
@@ -109,6 +110,9 @@
     <Compile Include="Assets\FurBall2D_mobile\Scripts\CameraController_m.cs" />
     <Compile Include="Assets\FurBall2D_mobile\Scripts\DestroyCloud_m.cs" />
     <Compile Include="Assets\FurBall2D_mobile\Scripts\PlayerController_m.cs" />
+    <Compile Include="Assets\FuryCenterController.cs" />
+    <Compile Include="Assets\FuryController.cs" />
+    <Compile Include="Assets\FuryIzquierdoController.cs" />
     <Compile Include="Assets\FuryMove.cs" />
     <Compile Include="Assets\GDG_Assets\Breakable Barrel\Scripts\Barrel_Controller.cs" />
     <Compile Include="Assets\GDG_Assets\Breakable Barrel\Scripts\Barrel_DL0.cs" />
@@ -249,13 +253,13 @@
     <Compile Include="Assets\Rocks and Boulders 2\Standard Assets\Utility\WaypointCircuit.cs" />
     <Compile Include="Assets\Rocks and Boulders 2\Standard Assets\Utility\WaypointProgressTracker.cs" />
     <Compile Include="Assets\Scene\Scripts\Connect.cs" />
-    <Compile Include="Assets\Scene\Scripts\DBClient.cs" />
-    <Compile Include="Assets\Scene\Scripts\DBOperations.cs" />
+    <Compile Include="Assets\Scene\Scripts\CreateUser.cs" />
     <Compile Include="Assets\Scene\Scripts\SingUp.cs" />
-    <Compile Include="Assets\Scene\Scripts\SingleDBConnection.cs" />
-    <Compile Include="Assets\Scene\Scripts\SqlHelper.cs" />
     <Compile Include="Assets\Scene\Scripts\Torre.cs" />
+    <Compile Include="Assets\Scene\Scripts\levelpush.cs" />
+    <Compile Include="Assets\Script\Botones\LevelStart.cs" />
     <Compile Include="Assets\Script\Botones\Login.cs" />
+    <Compile Include="Assets\Script\Botones\Scrollbar.cs" />
     <Compile Include="Assets\Script\Kinect\KinectImgControllers\DisplayColor.cs" />
     <Compile Include="Assets\Script\Kinect\KinectImgControllers\DisplayDepth.cs" />
     <Compile Include="Assets\Script\Kinect\KinectModelControllers\KinectModelControllerV2.cs" />
