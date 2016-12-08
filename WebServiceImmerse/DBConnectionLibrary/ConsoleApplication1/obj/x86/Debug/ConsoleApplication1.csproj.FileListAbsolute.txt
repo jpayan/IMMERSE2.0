@@ -1,0 +1,28 @@
+D:\GitHub\ProgramacionAvanzada\DBConnectionLibrary\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\GitHub\ProgramacionAvanzada\DBConnectionLibrary\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\GitHub\ProgramacionAvanzada\DBConnectionLibrary\ConsoleApplication1\bin\Debug\DBConnectionLibrary.dll
+D:\GitHub\ProgramacionAvanzada\DBConnectionLibrary\ConsoleApplication1\bin\Debug\DBConnectionLibrary.pdb
+D:\GitHub\ProgramacionAvanzada\DBConnectionLibrary\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\GitHub\ProgramacionAvanzada\DBConnectionLibrary\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\GitHub\ProgramacionAvanzada\DBConnectionLibrary\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Jorge\Documents\Cetys\5to\Programación Avanzada\Proxy\DBConnectionLibrary\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Jorge\Documents\Cetys\5to\Programación Avanzada\Proxy\DBConnectionLibrary\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Jorge\Documents\Cetys\5to\Programación Avanzada\Proxy\DBConnectionLibrary\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Jorge\Documents\Cetys\5to\Programación Avanzada\Proxy\DBConnectionLibrary\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Jorge\Documents\Cetys\5to\Programación Avanzada\Proxy\DBConnectionLibrary\ConsoleApplication1\bin\Debug\DBConnectionLibrary.dll
+C:\Users\Jorge\Documents\Cetys\5to\Programación Avanzada\Proxy\DBConnectionLibrary\ConsoleApplication1\bin\Debug\DBConnectionLibrary.pdb
+C:\Users\Jorge\Documents\Cetys\5to\Programación Avanzada\Proxy\DBConnectionLibrary\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Papu1330\Desktop\WebServiceImmerse\Proxy\DBConnectionLibrary\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Papu1330\Desktop\WebServiceImmerse\Proxy\DBConnectionLibrary\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Papu1330\Desktop\WebServiceImmerse\Proxy\DBConnectionLibrary\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Papu1330\Desktop\WebServiceImmerse\Proxy\DBConnectionLibrary\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Papu1330\Desktop\WebServiceImmerse\Proxy\DBConnectionLibrary\ConsoleApplication1\bin\Debug\DBConnectionLibrary.dll
+C:\Users\Papu1330\Desktop\WebServiceImmerse\Proxy\DBConnectionLibrary\ConsoleApplication1\bin\Debug\DBConnectionLibrary.pdb
+C:\Users\Papu1330\Desktop\WebServiceImmerse\Proxy\DBConnectionLibrary\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Documents\Cetys\5to\Programación Avanzada\WebServiceImmerse\DBConnectionLibrary\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Jorge\Documents\Cetys\5to\Programación Avanzada\WebServiceImmerse\DBConnectionLibrary\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Jorge\Documents\Cetys\5to\Programación Avanzada\WebServiceImmerse\DBConnectionLibrary\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Jorge\Documents\Cetys\5to\Programación Avanzada\WebServiceImmerse\DBConnectionLibrary\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Jorge\Documents\Cetys\5to\Programación Avanzada\WebServiceImmerse\DBConnectionLibrary\ConsoleApplication1\bin\Debug\DBConnectionLibrary.dll
+C:\Users\Jorge\Documents\Cetys\5to\Programación Avanzada\WebServiceImmerse\DBConnectionLibrary\ConsoleApplication1\bin\Debug\DBConnectionLibrary.pdb
+C:\Users\Jorge\Documents\Cetys\5to\Programación Avanzada\WebServiceImmerse\DBConnectionLibrary\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
